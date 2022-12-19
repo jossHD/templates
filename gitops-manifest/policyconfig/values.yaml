@@ -4,7 +4,7 @@
 
 metadata:
   name: policy-helm
-  namespace: devops-service
+  namespace: my-cp4i
 
 spec:
   contents: >-
