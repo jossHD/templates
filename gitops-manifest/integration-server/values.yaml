@@ -7,7 +7,7 @@ metadata:
   namespace: my-cp4i
 
 spec:
-  license: L-KSBM-C87FU2
+  license: L-APEH-C49KZH
   use: CloudPakForIntegrationNonProduction
 
 version: '12.0.1.0-r4'
