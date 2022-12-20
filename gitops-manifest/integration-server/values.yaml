@@ -11,7 +11,7 @@ spec:
   use: CloudPakForIntegrationNonProduction
 
 version: '12.0.1.0-r4'
-barURL: ''
+barURL: 'https://josselynhd.jfrog.io/artifactory/example-repo-local/ICEDemo.bar'
 
 configuration:
   credentials: jfrog-credentials
