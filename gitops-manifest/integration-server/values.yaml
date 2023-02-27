@@ -10,8 +10,8 @@ spec:
   license: L-APEH-CJUCNR
   use: CloudPakForIntegrationNonProduction
 
-version: '12.0.7.0-r2'
-barURL: 'https://josselynhd.jfrog.io/artifactory/example-repo-local/ICEDemo.bar'
+version: '12.0'
+barURL: https://josselynhd.jfrog.io/artifactory/example-repo-local/api.bar
 
 configuration:
   credentials: jfrog-credentials
