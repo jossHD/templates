@@ -27,7 +27,7 @@ spec:
     timeout: 120s
   service:
     endpointType: http
-  version: '{{ .Values.version }}'
+  version: {{ .Values.version }}
   barURL: >-
     {{ .Values.barURL }}
   configurations:
